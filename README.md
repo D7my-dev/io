@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/D7my-dev/io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>سورس الجوكر </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-### Markdown
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<h1>أهلا بك في سورس الجوكر</h1>
+					</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Main -->
+					<div id="main">
 
-```markdown
-Syntax highlighted code block
+						<!-- Introduction -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+<h2>الرئيسية</h2>
+										</header>
+										<p>أجدد الأدوات والهاكات الحصرية</p>
+										<ul class="actions">
+											<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://joker2gun.github.io" class="button">اضافة السورس</a></li>
+										</ul>
+									</div>
+									<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+								</div>
+							</section>
 
-# Header 1
-## Header 2
-### Header 3
+						<!-- First Section -->
+							<section id="first" class="main special">
+								<header class="major">
+									<h1>محتويات السورس</h1>
+								</header>
+								<ul class="features">
+									<li>
+										<span class="icon major style1 fa-code"></span>
+										<h3>-<b>أحدث الأدوات</b>-</h3>
+										<p>Chameleon, InfiniOS, No More Deleted, Breadcrumbs10 and many more</p>
+									</li>
+									<li>
+										<span class="icon major style3 fa-paint-brush"></span>
+										<h3>-<b>الثيمات</b>-</h3>
+				<p>iDots</p>
+									</li>
+									<li>
+										<span class="icon major style5 fa-gamepad"></span>
+										<h3>-<b>الهاكات الحصرية</b>-</h3>
+										<p><s>من صاحب السورس</s></p>
+									</li>
+								</ul>
+								<footer class="major">
+									<ul class="actions">
+										<li><a href="http://www.dropbox.com/s/yvaj490tyzgzfyx/username.github.zip?dl=0" class="button"><i class="fa fa-cloud-download">&nbsp; Download Old Website</i></a></li><li><a href="" class="button"><i class="fa fa-cloud-download">&nbsp; Download New Website</i></a></li>
+<li><a href="tutorials.html" class="button"><i class="fa fa-book">&nbsp; Tutorials</i></a></li>
+									</ul>
+								</footer>
+							</section>
 
-- Bulleted
-- List
+					</div>
 
-1. Numbered
-2. List
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<ul class="icons">
+								<li><a href="http://www.twitter.com/kgfunn" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="" class="icon fa-youtube alt"><span class="label">Facebook</span></a></li>
+								<li><a href="https://joker2gun.github.io" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+							</ul>
+						</section>
 
-**Bold** and _Italic_ and `Code` text
+<div><h2><b>Notice</b></h2>
+<p>Please don't copy my work without prior permission from myself<a href="http://www.reddit.com/user/Antique_Dev"><b> <em>Antique_Dev</em></b></a>. Thank you!</p>
+</div>
 
-[Link](url) and ![Image](src)
-```
+<hr>
+					</footer>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+			</div>
 
-### Jekyll Themes
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/D7my-dev/io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
