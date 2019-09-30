@@ -1,0 +1,15 @@
+Package: cydia.D7my-dev.epicentre
+Description: A gorgeous passcode replacement
+Version: 2.0-2
+Section: Tweaks
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: Epicentre
+Author: Phillip Tennen
+Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
+Filename: ./deb/cydia.D7my-dev.epicentre_2.0-2_iphoneos-arm.deb
+Size: 398962
+MD5sum: c7002a90a0021f1e096953c9959c7543
+SHA1: d22f2dd69d11608cceff71863b0f6c3c61ea6ee3
+SHA256: 533104dff374a3cd714ea6061928fe44d0c0cc6a072b39a61247a56de89c70f3
