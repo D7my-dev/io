@@ -15,7 +15,7 @@ SHA1: dd37c080040e154ca2a8720e089b67d825d6c346
 SHA256: 2163f54c29fad1d99c4638b8741962b4fb036f1652160ae4f84cb3630117b30a
 
 
-Package: com.cydiageek.mypomonella
+Package: com.D7my-dev.mypomonella
 Version: 1.0.8
 Priority: optional
 Section: Tweaks
