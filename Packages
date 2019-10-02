@@ -13,3 +13,23 @@ Size: 415158
 MD5sum: abb376017134e970b9f44269a90454ee
 SHA1: dd37c080040e154ca2a8720e089b67d825d6c346
 SHA256: 2163f54c29fad1d99c4638b8741962b4fb036f1652160ae4f84cb3630117b30a
+
+
+Package: com.cydiageek.mypomonella
+Version: 1.0.8
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./deb/cydia.D7my-dev.mypomonella.deb
+Size: 98918 
+Installed-Size: 493
+MD5sum: bb28a408f4b4dfbc79bd5ff636a71f74
+SHA256: f0bf7bf98ae77eb55c459c3c4bb209f6719ecb250adbc52b4c5d83d862366930
+Name: Mypomonella
+Icon: file:///Library/PreferenceBundles/Mypomonella.bundle/Mypomonella@2x.png
+Description: اضافة العديد من الخيارات الى السيديا وامكانية تعطيل بعض الخيارات
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
