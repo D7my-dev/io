@@ -9,24 +9,23 @@ Name: Epicentre
 Author: Phillip Tennen
 Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
 Filename: ./deb/cydia.D7my-dev.epicentre_2.0-2_iphoneos-arm.deb
-Size: 415158
-MD5sum: abb376017134e970b9f44269a90454ee
-SHA1: dd37c080040e154ca2a8720e089b67d825d6c346
-SHA256: 2163f54c29fad1d99c4638b8741962b4fb036f1652160ae4f84cb3630117b30a
-
+Size: 398962
+MD5sum: c7002a90a0021f1e096953c9959c7543
+SHA1: d22f2dd69d11608cceff71863b0f6c3c61ea6ee3
+SHA256: 533104dff374a3cd714ea6061928fe44d0c0cc6a072b39a61247a56de89c70f3
 
 Package: com.D7my-dev.mypomonella
 Version: 1.0.8
 Priority: optional
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: D7my-dev
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: ./deb/cydia.D7my-dev.mypomonella.deb
-Size: 98918 
+Filename: ./deb/cydia.D7my-dev.mypomonella_1.0.8_iphoneos-arm.deb
+Size: 98946 
 Installed-Size: 493
-MD5sum: bb28a408f4b4dfbc79bd5ff636a71f74
-SHA256: f0bf7bf98ae77eb55c459c3c4bb209f6719ecb250adbc52b4c5d83d862366930
+MD5sum: 3b4db15387612ed344d38a51878ad2e0
+SHA256: 68050b16ee96a3d7b12c0d1b93f9c8d44a979dec06803e72ef24af80020c68e2
 Name: Mypomonella
 Icon: file:///Library/PreferenceBundles/Mypomonella.bundle/Mypomonella@2x.png
 Description: اضافة العديد من الخيارات الى السيديا وامكانية تعطيل بعض الخيارات
