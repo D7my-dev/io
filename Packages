@@ -26,9 +26,9 @@ Size: 98946
 Installed-Size: 493
 MD5sum: 3b4db15387612ed344d38a51878ad2e0
 SHA256: 68050b16ee96a3d7b12c0d1b93f9c8d44a979dec06803e72ef24af80020c68e2
-Name: Mypomonella
+Name: mypomonella
 Icon: file:///Library/PreferenceBundles/Mypomonella.bundle/Mypomonella@2x.png
 Description: اضافة العديد من الخيارات الى السيديا وامكانية تعطيل بعض الخيارات
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: CydiaGeek <lucaluca86@aol.com>
+Sponsor: thebigboss.org
+Author: CydiaGeek
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
