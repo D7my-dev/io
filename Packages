@@ -21,7 +21,7 @@ Section: Tweaks
 Maintainer: D7my-dev
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: ./deb/cydia.D7my-dev.mypomonella_1.0.8_iphoneos-arm.deb
+Filename: ./deb/com.D7my-dev.mypomonella_1.0.8_iphoneos-arm.deb
 Size: 98946 
 Installed-Size: 493
 MD5sum: 3b4db15387612ed344d38a51878ad2e0
@@ -44,7 +44,7 @@ Icon: https://repo.packix.com/api/Packages/5d95a869c7f6d9001a0bdc59/icon/downloa
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.D7my-dev.cosette/depiction
 Version: 1.0.2-1
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.4
-Filename: ./deb/cydia.D7my-dev.cosette_1.0.2-1_iphoneos-arm
+Filename: ./deb/com.D7my-dev.cosette_1.0.2-1_iphoneos-arm
 Size: 824312
 MD5sum: f9352cc832625915b0d2c35c9aa0e576
 SHA1: 8df4cc56eea155700d957f94e88dc3dfcd94a406
@@ -54,3 +54,19 @@ Maintainer: iKilledAppl3
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
 Conflicts: com.sassoty.pulltorespring
 Installed-Size: 1020
+
+Package: cydia.D7my-dev.Shadow
+Description: Shadow Edit By دحمي
+Version: 2.0.20
+Section: Tweaks
+Maintainer: D7my
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: Shadow
+Author: jjolano
+Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
+Filename: ./deb/cydia.D7my-dev.shadow_2.0.20_iphoneos-arm.deb
+Size: 265358
+MD5sum: 1f350cae66cb4a110b23c27410e35c62
+SHA1: 2ba9b907404269de5c912755a193d6fd4b7cc329
+SHA256: 3927472dfd2965e07ce2c6099fe7458f374bf805625a5a5509323b834ecd736b
