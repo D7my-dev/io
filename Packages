@@ -7,7 +7,7 @@ Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
 Name: CoolCC ar
 Author: Phillip Tennen
 Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
-Filename: ./deb/com.4nni3.coolcc_1/4.0_iphoneos-arm
+Filename: ./deb/com.4nni3.coolcc_1:4.0_iphoneos-arm
 Size: 328
 MD5sum: C14C5C89842F04FE4C7060BB3A9A643C
 SHA1: D63D3683AA54AB2D70D9AB6CF9A5B8DEE4BD72C3
