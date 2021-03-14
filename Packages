@@ -1,15 +1,14 @@
-Package: com.ryleyangus.libertylite
-Description: A gorgeous passcode replacement
-Version: 0.2.10
+Package: com.4nni3.coolc
+Description: Makes ControlCenter cool replacement
+Version: 1:4.0
 Section: Tweaks
 Maintainer: D7my
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Name: Liberty Lite ar
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Name: CoolCC ar
 Author: Phillip Tennen
 Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
-Filename: ./deb/com.ryleyangus.libertylite_0.2.10_iphoneos-arm.deb
-Size: 476
-MD5sum: af932c55939d158729611d573194622c
-SHA1: dab8a7c37b4f289ba5b6efec6eaa4d900b53a622
-SHA256: 40c4a8134d2de5f25a53f310b31ffa43e2d33e88191db9960f9f1b8c90b55929
+Filename: ./deb/com.4nni3.coolcc_1/4.0_iphoneos-arm
+Size: 328
+MD5sum: C14C5C89842F04FE4C7060BB3A9A643C
+SHA1: D63D3683AA54AB2D70D9AB6CF9A5B8DEE4BD72C3
+SHA256: 3D727AD1F17CFBA0C933F3FB2A16BF13BB0342686E9BF1EDAB98D8C5F06E5B59
